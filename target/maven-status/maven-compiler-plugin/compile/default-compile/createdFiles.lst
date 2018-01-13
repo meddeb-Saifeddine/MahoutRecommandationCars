@@ -1,0 +1,6 @@
+com/mycompany/mahoutcarsrecommandations/RecomondationWS.class
+com/mycompany/mahoutcarsrecommandations/JsontoCsv.class
+com/mycompany/mahoutcarsrecommandations/parser.class
+com/mycompany/mahoutcarsrecommandations/CarsRecommandation.class
+com/mycompany/mahoutcarsrecommandations/ApplicationConfig.class
+com/mycompany/mahoutcarsrecommandations/MahoutRecommander.class
